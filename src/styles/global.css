@@ -1,0 +1,11 @@
+.title {
+  font-size: 12px;
+  background-color: yellow;
+  color: blue;
+}
+
+.content {
+  font-size: 24px;
+  background-color: black;
+  color: white;
+}
